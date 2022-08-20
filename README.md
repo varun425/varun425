@@ -5,6 +5,6 @@
      - Technology : Private blockchain (Fabric v2.x)
      - Language : Go-lang
      - Frontend : ReactJS
-- 🌱  In Line self assigned project: cryptodukan (in ethereum ) , mini-rail (blockchain)
+- 🌱  In Line self assigned project: cryptodukan (in ethereum ) , mini-rail (self made blockchain)
 - 📫 How to reach me : varunp.b832@gmail.com
 
